@@ -31,6 +31,7 @@
 * Scrum
 * Figma
 * Ilustrator
+* Trello
 
 ## **:large_blue_circle:No dudes en contactarme...**
 ### ***Estoy seguro que seré un gran aporte para tus proyectos y la satisfaccion de los usuarios.***
